@@ -145,5 +145,4 @@ venv.bak/
 evidence/
 working/
 output/
-*.mp4
 src-tauri/target/
