@@ -1,0 +1,25 @@
+# Web & API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Database
+SQLAlchemy
+psycopg2-binary
+
+# Forensic & Media Analysis
+pytsk3
+opencv-python-headless
+ultralytics
+Pillow
+
+# Reporting
+Jinja2
+WeasyPrint
+
+# Utilities
+python-multipart
+python-dotenv
+
+# Testing
+pytest
